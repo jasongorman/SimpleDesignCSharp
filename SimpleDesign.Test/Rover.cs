@@ -16,6 +16,9 @@ namespace SimpleDesign.Test
 
         public void Go(string instructions)
         {
+            NLog.Logger logger = NLog.LogManager.GetCurrentClassLogger();
+            logger.Info("Executing Rover instructions: " + instructions);
+            
             foreach (var instruction in instructions.ToCharArray())
             {
                 Execute(instruction);

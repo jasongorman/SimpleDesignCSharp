@@ -1,0 +1,11 @@
+C:\Users\jasongorman\RiderProjects\SimpleDesign\SimpleDesign.Test\bin\Debug\SimpleDesign.Test.dll
+C:\Users\jasongorman\RiderProjects\SimpleDesign\SimpleDesign.Test\bin\Debug\SimpleDesign.Test.pdb
+C:\Users\jasongorman\RiderProjects\SimpleDesign\SimpleDesign.Test\bin\Debug\nunit.framework.dll
+C:\Users\jasongorman\RiderProjects\SimpleDesign\SimpleDesign.Test\bin\Debug\nunit.framework.pdb
+C:\Users\jasongorman\RiderProjects\SimpleDesign\SimpleDesign.Test\obj\Debug\SimpleDesign.Test.csprojResolveAssemblyReference.cache
+C:\Users\jasongorman\RiderProjects\SimpleDesign\SimpleDesign.Test\obj\Debug\SimpleDesign.Test.csproj.CoreCompileInputs.cache
+C:\Users\jasongorman\RiderProjects\SimpleDesign\SimpleDesign.Test\obj\Debug\SimpleDesign.Test.csproj.CopyComplete
+C:\Users\jasongorman\RiderProjects\SimpleDesign\SimpleDesign.Test\obj\Debug\SimpleDesign.Test.dll
+C:\Users\jasongorman\RiderProjects\SimpleDesign\SimpleDesign.Test\obj\Debug\SimpleDesign.Test.pdb
+C:\Users\jasongorman\RiderProjects\SimpleDesign\SimpleDesign.Test\bin\Debug\NLog.dll
+C:\Users\jasongorman\RiderProjects\SimpleDesign\SimpleDesign.Test\bin\Debug\nlog.config
